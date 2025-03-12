@@ -1783,7 +1783,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 50b6db26fac03fc4c9a61b1a62c7bc7b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _inclinationspeed: 20
+  _inclinationspeed: 30
 --- !u!4 &1316672902 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 400000, guid: cbc86bb57f673ba45a8426789eb0fac0, type: 3}
@@ -1849,7 +1849,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9c0d0f21678ba4b4db9d9c92c26b83c6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _forceAmount: 500
+  _forceAmount: 550
 --- !u!4 &1340613003 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 400000, guid: e0e851c58997b9c438fae494e3412749, type: 3}
