@@ -914,7 +914,7 @@ BoxCollider:
   m_Material: {fileID: 0}
   m_IncludeLayers:
     serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 4294967295
   m_ExcludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -1009,8 +1009,8 @@ Transform:
   m_GameObject: {fileID: 850387033}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 49.5127, y: -14.9, z: 92.6878}
-  m_LocalScale: {x: 34.53305, y: 2.289674, z: 24.665342}
+  m_LocalPosition: {x: -19, y: -14, z: 141.6208}
+  m_LocalScale: {x: 25.24764, y: 2.289674, z: 47.831573}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
